@@ -89,9 +89,6 @@ full callendar 라는 오픈소스를 사용하여 구현하였다.
 ![image](https://kkimsangheon.github.io/2017/10/04/groupware/%EA%B0%9C%EB%B0%9C2%ED%8C%80%EA%B2%80%EC%83%89.PNG)
 팀명 또는 이름으로 조회가 가능하며 위는 팀명으로만 조회한 경우이다.
 
-![image](https://kkimsangheon.github.io/2017/10/04/groupware/%EA%B9%80%EC%83%81%ED%97%8C%EC%A1%B0%ED%9A%8C.PNG)
-위는 김상헌을 조회한 경우이다. 메세지 보내기 버튼을 누르면
-
 ![image](https://kkimsangheon.github.io/2017/10/04/groupware/%EB%A9%94%EC%84%B8%EC%A7%80%EB%B3%B4%EB%82%B4%EA%B8%B0.PNG)
 위와 같은 팝업창이 생성된다.
 
